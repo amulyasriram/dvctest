@@ -1,0 +1,6 @@
+[core]
+    remote = flexvol-remote
+[cache]
+    type = "hardlink,symlink,copy"
+['remote "flexvol-remote"']
+    url = /home/ubuntu/projects/amulya/fsx_posit/dvc_remote_store
