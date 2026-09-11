@@ -1,0 +1,5 @@
+outs:
+- md5: b2d1236c286a3c0704224fe4105eca49
+  size: 2097152
+  hash: md5
+  path: sample_model_weights.bin
