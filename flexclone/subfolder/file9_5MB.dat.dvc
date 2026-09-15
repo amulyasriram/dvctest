@@ -1,0 +1,5 @@
+outs:
+- md5: 5f363e0e58a95f06cbe9bbc662c5dfb6
+  size: 5242880
+  hash: md5
+  path: file9_5MB.dat
